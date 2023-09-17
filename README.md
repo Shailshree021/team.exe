@@ -13,4 +13,4 @@ We assists through AI powered medical chatbot
 where bot can give syptom analysis as well as 
 medicine analysis 
 ---------------------------------------------
-
+We created an online platform for assisting patients/user using chatbot
